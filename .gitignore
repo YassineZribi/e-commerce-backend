@@ -1,0 +1,40 @@
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# .NET Core build files
+bin/
+obj/
+
+# ASP.NET Core temporary files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider IDE files
+.idea/
+
+# User-specific files for Visual Studio for Mac
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msp
+
+# JetBrains Rider
+.idea/
+
+# User-specific files for Visual Studio for Mac
+.vscode/
